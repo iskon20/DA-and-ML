@@ -50,8 +50,13 @@ Dataset web: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 **📂 Repository Structure**
 
+<pre>
+``` 
 bank-analysis-project/
 ├── data/ # Dataset
 ├── src/ # Python scripts
 ├── output/ # Generated charts and graphs
 └── README.md # Project Documentation
+``` 
+</pre>
+
