@@ -1,9 +1,4 @@
-DA-and-ML-PJT1  
-Data Analytics and ML
-
----
-
-** Data Analytics & Machine Learning Project **
+**Data Analytics & Machine Learning Project**
 
 ---
 
@@ -28,36 +23,35 @@ Dataset web: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 **🏗 Project Roadmap (5 Weeks)**
 
-📅 Week 1: Foundation & Setup
-[] Set up GitHub repository and invite team members
-[✅] Acquire dataset: UCI Bank Marketing Dataset
-[] Perform basic data exploration (head, info, describe)
+## 📅 Week 1: Foundation & Setup
+- [ ] Set up GitHub repository and invite team members
+- [x] Acquire dataset: UCI Bank Marketing Dataset
+- [ ] Perform basic data exploration (`head`, `info`, `describe`)
 
-📅 Week 2: Data Preprocessing
-[] Handle missing values and duplicates
-[] Encode categorical variables
-[] Format dataset columns for analysis
+## 📅 Week 2: Data Preprocessing
+- [ ] Handle missing values and duplicates
+- [ ] Encode categorical variables
+- [ ] Format dataset columns for analysis
 
-📅 Week 3: Exploratory Data Analysis (EDA)
-[] Analyze age distribution
-[] Explore job types vs. subscription rates
-[] Examine balance distribution
+## 📅 Week 3: Exploratory Data Analysis (EDA)
+- [ ] Analyze age distribution
+- [ ] Explore job types vs. subscription rates
+- [ ] Examine balance distribution
 
-📅 Week 4: Data Analysis & Visualization
-[✅] Create visualizations with Matplotlib & Seaborn
-[✅] Perform correlation analysis on numerical variables
-[✅] Generate pie charts and distribution graphs
+## 📅 Week 4: Data Analysis & Visualization
+- [x] Create visualizations with Matplotlib & Seaborn
+- [x] Perform correlation analysis on numerical variables
+- [x] Generate pie charts and distribution graphs
 
-📅 Week 5: Evaluation & Final Report
-[✅] Interpret visualization results
-[✅] Draw conclusions on customer behavior
-[✅] Finalize GitHub documentation and presentation
----
+## 📅 Week 5: Evaluation & Final Report
+- [x] Interpret visualization results
+- [x] Draw conclusions on customer behavior
+- [x] Finalize GitHub documentation and presentation
 
 **📂 Repository Structure**
 
 bank-analysis-project/
-├── data/               # Dataset
-├── src/                # Python scripts
-├── output/             # Generated charts and graphs
-└── README.md           # Project Documentation
+├── data/ # Dataset
+├── src/ # Python scripts
+├── output/ # Generated charts and graphs
+└── README.md # Project Documentation
