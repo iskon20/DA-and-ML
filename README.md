@@ -1,11 +1,11 @@
-**Data Analytics & Machine Learning Project**
+**Data Analytics Project**
 
 ---
 
 **Project Overview**
 The Metric team is conducting this project as part of the "Data Analytics & Machine Learning" course. The primary objective is to analyze bank customer data to identify and understand the factors that influence a client’s decision to subscribe to a term deposit.
 
-Dataset web: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+Data: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 ---
 
